@@ -1,16 +1,45 @@
-### Hi there 👋
+# 👋🏾 Hola mi nombre es Marcos Rosario,
 
-<!--
-**mhrosariom/mhrosariom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Soy un entusiasta de la **Tecnología**, el **Diseño** y la **Programación**; además de un fanático del aprendizaje en permanente construcción.
 
-Here are some ideas to get you started:
+*********
+ 💡 "_Somos afortunados de contar con el mejor setup del mundo, cinco sentidos integrados y capacidad de almacenamiento ilimitada para crear lo que podamos imaginar_"
+ 
+ **Marcos R.**
+*********
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨🏾‍🎓 Estudios Formales:
+
++ Técnico Superior Universitario en Higiene y Seguridad Industrial.
++ Histotecnólogo.
+
+### 📚 Otros Estudios:
+
++ Diseño Grafico (Nivel Junior)
+  + Adobe Photoshop.
+  + Adobe XD.
+  + Adobe Ilustrator.
++ Programación (Nivel Junior)
+  + HTML.
+  + CSS.
+  + JavaScrip.
+
+### 👌🏾 Habilidades Blandas:
+
++ Buena comunicacion verbal.
++ Habilidades comunicativas.
++ Facilidad para asumir criticas constructivas.
++ Propensión al trabajo en equipo.
++ Capacidad de liderazgo.
++ Pensamiento crítico/lógico.
++ Buenas capacidades organizativas.
++ Empatía.
++ Facilidad de adaptacion al cambio.
++ Autodidacta.
+
+
+
+
+
+ 
+
