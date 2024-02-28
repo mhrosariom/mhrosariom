@@ -1,9 +1,9 @@
 # 👋🏾 Hola mi nombre es Marcos Rosario,
 
-### Soy un entusiasta de la **Tecnología**, el **Diseño** y la **Programación**; además de un fanático del aprendizaje en permanente construcción.
+### Adquirir nuevos conocimientos es mi hobby compartirlos mi satisfacción, la tecnología me ha ayudado a disfrutar de ambas por ese motivo disfruto de aprender continuamente.
 
 *********
- 💡 "_Somos afortunados de contar con el mejor setup del mundo, cinco sentidos integrados y capacidad de almacenamiento ilimitada para crear lo que podamos imaginar_"
+ 💡 "_Somos afortunados de contar con el mejor setup del mundo, sentidos integrados que nos permiten explorar y entender nuestro entorno y capacidad de almacenamiento ilimitada podemos crear lo que podamos imaginar_"
  
  **Marcos R.**
 *********
@@ -13,11 +13,12 @@
 + Técnico Superior Universitario en Higiene y Seguridad Industrial.
 + Histotecnólogo.
 
-### 📚 Otros Estudios:
+### 📚 Tecnologías:
 
 + Diseño Grafico (Nivel Junior)
   + Adobe Photoshop.
   + Adobe XD.
+  + Figma.
   + Adobe Ilustrator.
 + Programación (Nivel Junior)
   + HTML.
